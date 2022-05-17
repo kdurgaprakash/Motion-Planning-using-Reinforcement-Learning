@@ -1,6 +1,6 @@
 # Motion-Planning-using-Reinforcement-Learning
 
-Used Policy Proximal Optimization reinforcement learning to plan path for autonomous vehicle
+Developed model with Proximal Policy Optimization reinforcement learning algorithm to plan path for autonomous vehicle
 
 #### Architecture
 ![alt text](./media/PPOarchitecture.png "architecture")
